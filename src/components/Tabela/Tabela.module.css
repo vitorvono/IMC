@@ -1,0 +1,8 @@
+.tableImc {
+  border-collapse: collapse;
+  padding: 6px;
+}
+
+td {
+  padding: 6px;
+}
