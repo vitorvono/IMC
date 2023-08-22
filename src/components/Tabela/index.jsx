@@ -32,7 +32,7 @@ const Tabela = () => {
           <td>Obesidade 2</td>
         </tr>
         <tr>
-          <td>Maior ou iguala a 40</td>
+          <td>Maior ou igual a 40</td>
           <td>Obesidade 3</td>
         </tr>
       </tbody>
